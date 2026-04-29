@@ -26,7 +26,7 @@ The goal was to identify key factors influencing churn and derive actionable ins
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/devcode702/customer-churn-analysis/main/dashboard.png)
 
 👉 Download the `.pbix` file to explore the dashboard interactively.
 
